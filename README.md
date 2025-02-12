@@ -1,15 +1,15 @@
 # generate_acronym
 
-#Standard Input
+Standard Input
 
-#Input: "Coding Ninjas"
+Input: "Coding Ninjas"
 
-#Processing:
+Processing:
 
-#The input is split into words: ["Coding", "Ninjas"]
+The input is split into words: ["Coding", "Ninjas"]
 
-#The first letter of each word is taken: ["C", "N"]
+The first letter of each word is taken: ["C", "N"]
 
-#The letters are joined to form the acronym: "CN"
+The letters are joined to form the acronym: "CN"
 
-#output:"CN"
+output:"CN"
